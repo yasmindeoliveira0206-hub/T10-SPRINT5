@@ -1,5 +1,5 @@
 price,model_year,model,condition,cylinders,fuel,odometer,transmission,type,paint_color,is_4wd,date_posted,days_listed
-9400,2011.0,bmw x5,good,6,gas,145000.0,automatic,SUV,,1.0,2018-06-23,19
+9400,2011.0,bmw x5,good,6,gas,145000.0,automatic,SUV,,1.0,2018-06-23,19 
 25500,,ford f-150,good,6,gas,88705.0,automatic,pickup,white,1.0,2018-10-19,50
 5500,2013.0,hyundai sonata,like new,4,gas,110000.0,automatic,sedan,red,,2019-02-07,79
 1500,2003.0,ford f-150,fair,8,gas,,automatic,pickup,,,2019-03-22,9
